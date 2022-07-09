@@ -1267,7 +1267,8 @@ break
                     let btn = [{
                                  urlButton: {
                                     displayText: 'Instagram🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: '
+'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1301,7 +1302,7 @@ break
 		    let btn = [{
                                  urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2793,7 +2794,8 @@ case 'sewabot': {
               let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: '
+'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3320,7 +3322,7 @@ case 'allmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3382,7 +3384,7 @@ let btn = [{
                 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3439,7 +3441,7 @@ case 'downloadmenu': {
          let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3491,7 +3493,7 @@ case 'searchmenu': {
        let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3537,7 +3539,7 @@ case 'mememenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3596,7 +3598,7 @@ case 'randommenu': {
        let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3670,7 +3672,7 @@ case 'textpromenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3724,7 +3726,7 @@ case 'photooxymenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3775,7 +3777,7 @@ case 'ephotomenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3842,7 +3844,7 @@ case 'funmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3914,7 +3916,8 @@ case 'primbonmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: '
+'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3972,7 +3975,7 @@ case 'convertmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4025,7 +4028,7 @@ case 'mainmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4075,7 +4078,7 @@ case 'databasemenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4122,7 +4125,7 @@ case 'anonymousmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4169,7 +4172,7 @@ case 'islamicmenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4222,7 +4225,7 @@ case 'voicechangermenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4274,7 +4277,7 @@ case 'ownermenu': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4314,7 +4317,7 @@ case 'thanksto': {
 let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
-                                    url: 'instagram.com/saya_asroriamin'
+                                    url: ''
                                 }
                             }, {
                                 quickReplyButton: {
